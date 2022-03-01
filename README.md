@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mafiagr
 - 👀 I’m interested in programming and photography.
-- 🌱 I’m currently learning Angular, Javascript, Typescript, CSS and HTML.
+- 🌱 I’m currently learning ReactJS, Javascript, Typescript, CSS and HTML.
 - 💞️ I’m looking to collaborate at open source projects.
 - 📫 iammafiagr@gmail.com
 
