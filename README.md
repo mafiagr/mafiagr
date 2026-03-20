@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @mafiagr
-- 👀 I’m interested in programming and photography.
-- 🌱 I’m currently working using ReactJS, Javascript, Typescript, CSS and HTML.
-- 📫 iammafiagr@gmail.com
+- I write code
 
 <!---
 mafiagr/mafiagr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
